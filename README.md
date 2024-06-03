@@ -1,1 +1,1 @@
-# JSDevTasks
+# PureJS Vanilia TodoList
